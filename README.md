@@ -1,17 +1,17 @@
-# PyQt5 Tic-Tac-Toe (Крестики-нолики)
+# PyQt5 Tic-Tac-Toe
 
-Рабочий учебный проект — классические крестики-нолики с графическим интерфейсом и простейшим ботом, написанные на Python с использованием PyQt5. Проект древний как мир, но полностью рабочий!
+A working educational project — classic Tic-Tac-Toe with a graphical interface and a simple AI bot, written in Python using PyQt5. It's ancient history, but fully functional!
 
-## Сильные стороны проекта
-* **Полностью рабочий функционал:** Игра запускается, корректно обрабатывает клики, считает победы, ничьи и позволяет начать заново без ошибок.
-* **Логика бота (ИИ):** Бот умеет не просто тыкать рандомно, а проверяет поле на победные комбинации и вовремя блокирует ходы игрока.
-* **Десктопное приложение:** Настоящий графический интерфейс на PyQt5 с окошком, кнопками и кастомными стилями.
+## Good Points
+* **Fully Working:** The game runs smoothly, handles clicks correctly, tracks wins and draws, and lets you restart without crashing.
+* **Basic AI Logic:** The bot doesn't just click randomly—it checks the board for winning moves and blocks the player when necessary.
+* **Desktop App:** Built with a real GUI using PyQt5, complete with buttons and custom styling.
 
-## Технологии
+## Technologies Used
 * **Python**
-* **PyQt5** (графический интерфейс и слоты)
-* **Random** (для генерации ходов бота)
+* **PyQt5** (GUI and event handling)
+* **Random** (for bot moves)
 
 ---
-> **Статус проекта:** Древний учебный проект из разряда «когда только начинал», но свою задачу выполняет на ура.
+> **Project Status:** An old beginner learning project ("ancient as the world"), but it gets the job done.
 ---
